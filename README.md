@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This mini project was made to demonstrate working with APIs use react and also the use of hooks
+It uses Open Movie Database API for data
 ## Available Scripts
 
 In the project directory, you can run:
